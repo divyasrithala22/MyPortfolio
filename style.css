@@ -543,7 +543,7 @@ transition:0.5s;
 }
 
 .Projects .title::after{
-    content: "who with me";
+    content: none;
 }
 .Projects .carousel .card{
     background: white;
