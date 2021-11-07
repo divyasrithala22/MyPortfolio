@@ -651,33 +651,33 @@ transition:0.5s;
 }
 
 /* Resume section styling */
-.Resume .title::after{
+/* .Resume .title::after{
     content: none;
-}
-.Resume .Resume-content .left{
+} */
+/* .Resume .Resume-content .left{
     width: 45%;
-}
-.Resume .Resume-content .left img{
+} */
+/* .Resume .Resume-content .left img{
     height: 385px;
     width: 250px;
     object-fit: cover;
     border-radius: 6px;
-}
-.Resume .Resume-content .right{
+} */
+/* .Resume .Resume-content .right{
     width: 55%;
-}
-.Resume .Resume-content .right .text{
+} */
+/* .Resume .Resume-content .right .text{
     font-size: 25px;
     font-weight: 600;
     margin-bottom: 10px;
-}
-.Resume .Resume-content .right .text span{
+} */
+/* .Resume .Resume-content .right .text span{
     color: crimson;
-}
-.Resume .Resume-content .right p{
+} */
+/* .Resume .Resume-content .right p{
     text-align: justify;
-}
-.Resume .Resume-content .right a{
+} */
+/* .Resume .Resume-content .right a{
     display: inline-block;
     background: crimson;
     color: #fff;
@@ -688,11 +688,11 @@ transition:0.5s;
     border-radius: 6px;
     border: 2px solid crimson;
     transition: all 0.3s ease;
-}
-.Resume .Resume-content .right a:hover{
+} */
+/* .Resume .Resume-content .right a:hover{
     color: crimson;
     background: none;
-}
+} */
 
 /* Extracurriculars section styling  */
 .Extracurriculars .title::after{
@@ -976,17 +976,17 @@ footer span a:hover{
     }
 
 
-    .Resume .Resume-content .column{
+    /* .Resume .Resume-content .column{
         width: 100%;
-    }
-    .Resume .Resume-content .left{
+    } */
+    /* .Resume .Resume-content .left{
         display: flex;
         justify-content: center;
         margin: 0 auto 60px;
-    }
-    .Resume .Resume-content .right{
+    } */
+    /* .Resume .Resume-content .right{
         flex: 100%;
-    }
+    } */
 
 
     .Hackathon .Hackathon-content .column{
