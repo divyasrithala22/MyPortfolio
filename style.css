@@ -175,7 +175,7 @@ section .title::after{
 /* home section styling I set the brackground of my website and then set the brackground size, font of the text on the background, height, color of the text on the backgound */
 .home{
     display: flex;
-    background: url("./image3.jpg") no-repeat center;
+    background: url("./images/image3.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -389,7 +389,7 @@ section .title::after{
 /* skills section styling */
 .Skills{
     display: flex;
-    background: url("./background6.jpg") no-repeat center;
+    background: url("./images/background6.jpg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
